@@ -4,7 +4,7 @@
     --accent:rgb(0, 0, 222);
     --text-color:black;
     --bg-color:white;  
-    --radius:20px;
+    --radius:50px;
     --shadow: 0 12px 24px;
     --title-size: clamp(1.5rem, 4vw, 2.5rem);
     --transition-speed: 0.3 ;
